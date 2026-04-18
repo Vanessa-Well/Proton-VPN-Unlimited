@@ -15,7 +15,7 @@
 
 ---
 
-## 📖 What is Proton VPN?
+## 📖 What is Proton VPN
 
 **Proton VPN** is a Swiss VPN service created by a team of scientists from CERN who previously founded [Proton Mail](https://proton.me/mail) — the world's most popular encrypted email service. The company is headquartered in **Geneva, Switzerland**, providing users with the protection of one of the strictest data privacy jurisdictions in the world.
 
